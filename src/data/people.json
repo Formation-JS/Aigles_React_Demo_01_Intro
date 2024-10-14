@@ -1,0 +1,37 @@
+[
+  {
+      "id": 1,
+      "firstname": "Della",
+      "lastname": "Duck",
+      "role": "Admin",
+      "isActif": true
+  },
+  {
+      "id": 2,
+      "firstname": "Mickey",
+      "lastname": "Mouse",
+      "role": "User",
+      "isActif": true
+  },
+  {
+      "id": 3,
+      "firstname": "Minnie",
+      "lastname": "Mouse",
+      "role": "User",
+      "isActif": false
+  },
+  {
+      "id": 4,
+      "firstname": "Goofy",
+      "lastname": null,
+      "role": "Guest",
+      "isActif": true
+  },
+  {
+      "id": 5,
+      "firstname": "Donald",
+      "lastname": "Duck",
+      "role": "Admin",
+      "isActif": false
+  }
+]
