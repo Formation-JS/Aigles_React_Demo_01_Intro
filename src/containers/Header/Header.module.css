@@ -1,0 +1,19 @@
+.page-header {
+  display: flex;
+  flex-direction: row;
+  gap: 1ch;
+
+  height: 3rem;
+  width: 100vw;
+  color: hotpink;
+  border-bottom: hotpink 0.1ch solid;
+
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  span {
+    align-self: center;
+    font-size: 1.2em;
+  }
+}
