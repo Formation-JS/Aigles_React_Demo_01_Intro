@@ -1,5 +1,6 @@
 import { Person } from './@types/person';
 import './App.css'
+import CalculatorForm from './components/CalculatorForm/CalculatorForm';
 import Counter from './components/Counter/Counter';
 import PersonTable from './components/PersonTable/PersonTable';
 import Welcome from './components/Welcome/Welcome';
@@ -22,6 +23,9 @@ function App() {
         <Counter />
         <hr />
         <Counter step={5} />
+
+        <h2>Formulaire</h2>
+        <CalculatorForm />
       </main>
     </>
   )
